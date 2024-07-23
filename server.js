@@ -9,7 +9,7 @@ app.prepare().then(() => {
   const server = express();
 
   server.get('/api/hello', (req, res) => {
-    return res.json({ message: 'Hello from Express!' });
+    res.json({ message: 'Hello from Express!' });
   });
 
   server.get('*', (req, res) => {
