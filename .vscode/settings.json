@@ -1,0 +1,30 @@
+{
+    "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
+    "editor.fontWeight": "300", // Font weight vừa phải
+    "editor.fontSize": 13, // Kích thước font vừa phải
+    "editor.lineHeight": 24, // Khoảng cách dòng để phù hợp với thiết kế Fleet
+    "editor.minimap.enabled": false, // Tắt minimap để có giao diện sạch sẽ
+    "editor.renderWhitespace": "none", // Hiển thị khoảng trắng để mã dễ đọc hơn
+    "editor.renderControlCharacters": true, // Hiển thị ký tự điều khiển
+    "editor.cursorBlinking": "smooth", // Hiệu ứng nhấp nháy của con trỏ
+    "editor.wordWrap": "on", // Bọc từ để dễ đọc hơn
+    "editor.smoothScrolling": true, // Cuộn mượt mà
+    "window.zoomLevel": 0, // Đặt mức phóng to theo mặc định
+    "files.autoSave": "afterDelay", // Tự động lưu các thay đổi
+    "files.autoSaveDelay": 1000, // Thay đổi thời gian tự động lưu (ms)
+    "editor.tabSize": 4, // Kích thước tab phù hợp với tiêu chuẩn
+    "editor.insertSpaces": true, // Sử dụng khoảng trắng thay vì tab
+    "editor.rulers": [80], // Tạo ranh giới ngang để mã dễ đọc hơn
+"workbench.colorTheme": "Visual Studio Dark - C++", // Hiển thị thanh hoạt động bên trái
+    "workbench.statusBar.visible": true, // Hiển thị thanh trạng thái ở dưới cùng
+    "workbench.sideBar.location": "left", // Đặt thanh bên trái giống như trong Fleet
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "editor.codeLensFontFamily": "JetBrains Mono",
+    "editor.inlayHints.fontFamily": "JetBrains Mono",
+    "notebook.output.fontFamily": "JetBrains Mono",
+    "debug.console.fontFamily": "JetBrains Mono",
+    "scm.inputFontFamily": "JetBrains Mono",
+    "chat.editor.fontFamily": "JetBrains Mono",
+"workbench.iconTheme": "eq-material-theme-icons-ocean",
+"tabnine.experimentalAutoImports": true // Chủ đề biểu tượng
+}
